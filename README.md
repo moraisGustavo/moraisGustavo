@@ -1,6 +1,6 @@
 <img align="left" alt="Spider-Man" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif?cid=ecf05e47envctll85x1nsp4u4tg64n8hn1on98ve1ryfmfz3&rid=giphy.gif&ct=s">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7D93D&size=50&center=true&duration=1500&pause=2000&vCenter=true&width=700&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7D93D&size=50&center=true&duration=1500&pause=2000&vCenter=true&width=500&lines=Hello+World!)](https://git.io/typing-svg)
 
 ##  Me chamo Gustavo Morais.
 <p> 👨🏻‍🎓 Formado em Analise e Desenvolvimento de Sistemas pela Unicid.
