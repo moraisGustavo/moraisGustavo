@@ -23,17 +23,6 @@
 </div><br>
 <br>
 
-## Algumas curiosidades sobre mim:
-💻 Apaixonado por tecnologia
-
-🎮 Jogador <s>nada</s> Profissional de Video-Games
-
-🎲 Curto jogos de tabuleiros
-
-##
-<br>
-
-##
 
 ## Minhas Redes :
 <br>
