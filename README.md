@@ -1,6 +1,6 @@
-<img align="right" alt="Spider-Man" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif?cid=ecf05e47envctll85x1nsp4u4tg64n8hn1on98ve1ryfmfz3&rid=giphy.gif&ct=s">
+<img align="right" alt="Spider-Man" height="100" style="border-radius:50px;" src="https://media2.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif?cid=ecf05e47envctll85x1nsp4u4tg64n8hn1on98ve1ryfmfz3&rid=giphy.gif&ct=s">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7D93D&size=50&center=true&duration=1500&pause=2000&vCenter=true&width=500&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7D93D&size=30&left=true&duration=1500&pause=2000&vCenter=true&width=500&lines=Hello+World!)](https://git.io/typing-svg)
 
 ##  Me chamo Gustavo Morais.
 <p> 👨🏻‍🎓 Formado em Analise e Desenvolvimento de Sistemas pela Unicid.
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/ogumorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<br>
 
-*"Prefiro morrer por um sonho , do que viver sem um objetivo."*<img align="right" alt="Spider-man" height="200" src="https://media4.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=790b76118620036553a1ed0652ed781eaad279d5d57083d4&rid=giphy.gif&ct=s">
+<img align="right" alt="Spider-man" height="200" src="https://media4.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=790b76118620036553a1ed0652ed781eaad279d5d57083d4&rid=giphy.gif&ct=s">
 
+*"Prefiro morrer por um sonho , do que viver sem um objetivo."*
