@@ -2,18 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7D93D&size=30&left=true&duration=1500&pause=2000&vCenter=true&width=500&lines=Hello+World!)](https://git.io/typing-svg)
 
-##  Me chamo Gustavo Morais.
+##  👋 Oi, eu sou o Gustavo.
 <p> 👨🏻‍🎓 Formado em Analise e Desenvolvimento de Sistemas pela Unicid.
-<p> 📚 Sou aluno do Input-Codar.me, Alura, Curso em Video e +1Code, entre outros. 
+<p> 📚 Aluno do Codar.me, Alura, Curso em Video , +1Code, entre outros. 
 <p> 🔭 Aspirante a desenvolvedor Front-end.
-
 <br>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=moraisGustavo&show_icons=true&count_private=true&hide_border=true&&theme=ocean_dark" alt="Gustavo Morais github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisGustavo&layout=compact&hide_border=true&&theme=ocean_dark" />
 </div>
-
 
 ## Tecnologias :
 <div style="display: inline_block"><br>
@@ -23,14 +20,9 @@
 </div><br>
 <br>
 
-
-## Minhas Redes :
-<br>
-<div> 
-  <a href="https://www.instagram.com/_gustavo_h_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
   <a href="https://www.linkedin.com/in/ogumorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
+</div><br>
 
 <img align="right" alt="Spider-man" height="200" src="https://media4.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=790b76118620036553a1ed0652ed781eaad279d5d57083d4&rid=giphy.gif&ct=s">
 
